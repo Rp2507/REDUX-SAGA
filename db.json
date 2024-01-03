@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "productName": "Mobile",
+      "productBrand": "Apple",
+      "productPrice": "150000",
+      "id": 1
+    },
+    {
+      "productName": "Watch",
+      "productBrand": "Apple",
+      "productPrice": "15000",
+      "id": 2
+    },
+    {
+      "productName": "sbcksbc",
+      "productBrand": "scnlknv",
+      "productPrice": "2164",
+      "id": 3
+    },
+    {
+      "productName": "hiiii",
+      "productBrand": "hello",
+      "productPrice": "456",
+      "id": 4
+    },
+    {
+      "productName": "tv",
+      "productBrand": "sony",
+      "productPrice": "35000",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
